@@ -1,2 +1,6 @@
-# coffee-machine
-Program simulating real-life vending machine
+## 2019 객체 지향 설계 수업 프로젝트 - 커피 자판기
+
+### 클래스 다이어그램
+
+
+### 시퀀스 다이어그램
