@@ -3,11 +3,11 @@
 **팀원: 손향지, 이유영**
 
 ### 사용 언어, 기술 스택
-- 설계
 ![image](https://user-images.githubusercontent.com/57944099/88451150-6c3fff00-ce8f-11ea-94ff-3f7cd51ed57e.png)
+- 설계
 
-- 코드 작성 (
 ![image](https://user-images.githubusercontent.com/57944099/88451203-e40e2980-ce8f-11ea-9757-af25bbf8242f.png)
+- 코드 작성 (사용 언어: Java)
 
 ### 클래스 다이어그램
 ![수정_클래스](https://user-images.githubusercontent.com/57944099/88178085-cad56500-cc64-11ea-9088-8487f5976d8d.png)
