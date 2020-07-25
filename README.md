@@ -8,14 +8,17 @@
 
 ![image](https://user-images.githubusercontent.com/57944099/88451203-e40e2980-ce8f-11ea-9757-af25bbf8242f.png)
 - 코드 작성 (사용 언어: Java)
-<br>
-<br>
+
+-------------------------------------------------------------------------
+
 ### 클래스 다이어그램
 ![수정_클래스](https://user-images.githubusercontent.com/57944099/88178085-cad56500-cc64-11ea-9088-8487f5976d8d.png)
 
 ### 시퀀스 다이어그램
 *음료선택, 내부 작동, 재고 흐름, 잔고 회수*로 구성
 ![수정_시퀀스](https://user-images.githubusercontent.com/57944099/88178115-d7f25400-cc64-11ea-8312-2db52849b12b.png)
+
+-------------------------------------------------------------------------
 
 ### 실행 화면
 ![image](https://user-images.githubusercontent.com/57944099/88451059-cb514400-ce8e-11ea-9025-ab57269cc4e1.png)
