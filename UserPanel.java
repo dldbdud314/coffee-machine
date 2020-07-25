@@ -313,35 +313,8 @@ public class UserPanel extends JFrame{
 			fillStockBtn.setEnabled(true);
 		}
 		
-		/*public void returnCoffee(int selection) {
-			switch(selection) {
-				case 0:
-					activityLog.append(">> 아메리카노 나왔습니다.");
-					break;
-				case 1:
-					activityLog.append(">> 카푸치노 나왔습니다.");
-					break;
-				case 2:
-					activityLog.append(">> 카페 라떼 나왔습니다.");
-					break;
-				case 3:
-					activityLog.append(">> 카페 모카 나왔습니다.");
-					break;	
-			}
-		}
-		public void returnChange() {
-			slot.setText(Integer.toString());
-			activityLog.append("잔돈은 "+Integer.toString(change)+"입니다.");
-			
-			total += selectionPrice;
-		}*/
 
 	public static void main(String[] args) {
 		UserPanel u = new UserPanel();
-		/*u.setSize(1000,1500);
-		// Frame 사이즈 고정
-		u.setResizable(false);
-		// Frame 보여 주기
-		u.setVisible(true);*/
 	}
 }
