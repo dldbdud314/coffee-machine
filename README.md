@@ -2,8 +2,12 @@
 처음 비용 지불하고 음료 선택하는 것부터 음료 제조, 음료 출력까지 전 과정을 시뮬레이션하는 커피 자판기 프로그램입니다.<br/>
 **팀원: 손향지, 이유영**
 
-### 아키텍쳐
-StarUML, Eclipse
+### 사용 언어, 기술 스택
+- 설계
+![image](https://user-images.githubusercontent.com/57944099/88451150-6c3fff00-ce8f-11ea-94ff-3f7cd51ed57e.png)
+
+- 코드 작성 (
+![image](https://user-images.githubusercontent.com/57944099/88451203-e40e2980-ce8f-11ea-9757-af25bbf8242f.png)
 
 ### 클래스 다이어그램
 ![수정_클래스](https://user-images.githubusercontent.com/57944099/88178085-cad56500-cc64-11ea-9088-8487f5976d8d.png)
